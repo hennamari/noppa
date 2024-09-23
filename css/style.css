@@ -4,7 +4,7 @@ body {
 
 #container {
     display: flex;
-    justify-content: center;  /* Vaakasuuntainen keskitys */
-    align-items: center;      /* Pystysuuntainen keskitys */
-    height: 100vh;            /* Aseta korkeus tarpeen mukaan */
+    justify-content: center; 
+    align-items: center;      
+    height: 100vh;           
 }
